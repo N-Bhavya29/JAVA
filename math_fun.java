@@ -2,7 +2,7 @@ import java.util.*;
 
 
 
-public class cir
+public class math_fun
 {
 	public static void main(String args[])
 	{
